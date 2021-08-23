@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andber6
-- 👀 I’m interested in technology, cryptocurrencies, fitness, and living a healthy lifestyle
-- 🌱 I’m currently learning about Flutter, Firebase, Crypto, Ubuntu, and AWS
+- 👀 I’m interested in technology, cryptocurrencies/blockchain, fitness, and living a healthy lifestyle
+- 🌱 I’m currently working as a software developer and studying blockchain development
 - 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 How to reach me -- andre@beatpulse.co
 
