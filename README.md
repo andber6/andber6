@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andber6
 - 👀 I’m interested in technology, cryptocurrencies/blockchain, fitness, and living a healthy lifestyle
-- 🌱 I’m currently working as a software developer and studying blockchain development
+- 🌱 I’m currently working as a software developer and studying blockchain development on my free time
 - 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 How to reach me -- andre@beatpulse.co
 
