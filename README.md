@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andber6
-- 👀 I’m interested in technology, cryptocurrencies/blockchain, fitness, and living a healthy lifestyle
+- 👀 I’m interested in technology, blockchain, fitness, and living a healthy lifestyle!
 - 🌱 I’m currently working as a software developer
 - 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 How to reach me -- andre.bergan99@hotmail.com
