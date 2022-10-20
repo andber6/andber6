@@ -5,7 +5,7 @@
 - 📫 How to reach me -- andre.bergan99@hotmail.com
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9/giphy.gif" width="480" height="480" frameBorder="0" />
+  <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9/giphy.gif" width="480" height="480" />
 </div>
 
 <!---
