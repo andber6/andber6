@@ -2,10 +2,7 @@
 
 ### :man_technologist: About Me :
 
-- 👀 I’m interested in technology, blockchain, fitness, and living a healthy lifestyle!
-- 🌱 I’m currently working as a Junior Developer
-- ⚡ On my free time I enjoy researching new technology and going to the gym
-- 📫 How to reach me -- andre.bergan99@hotmail.com
+I write code and lift weights. I am interested in new technology and I am especially enthusiastic about blockchain technology. I love entrepreneurship and finding new ways to solve problems with code. The technologies I am most familiar with include React.js, Node.js, Express.js, and Python. I am currently pursuing an internship in machine learning at NIO in Berlin while starting a business based on blockchain technology on my free time. 
 
 ---
 
