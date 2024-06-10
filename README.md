@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 
-I write code and lift weights. I am interested in new technology and I am especially enthusiastic about blockchain technology. I love entrepreneurship and finding new ways to solve problems with code. The technologies I am most familiar with include React.js, Node.js, Express.js, and Python. I am currently pursuing an internship in machine learning and NLP at NIO in Berlin. 
+I write code and lift weights. I am interested in new technology and I am especially enthusiastic about blockchain technology. I love entrepreneurship and finding new ways to solve problems with code. I am currently working as a Software Developer at Solv AS. The main technologies I utilize at work are react, C# .NET with Blazor, and Next.js.
 
 ---
 
