@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 
-I write code and lift weights. I am interested in new technology and I am especially enthusiastic about blockchain technology. I love entrepreneurship and finding new ways to solve problems with code. I am currently working as a Software Developer at Solv AS. The main technologies I utilize at work are react, C# .NET with Blazor, and Next.js.
+I write code and lift weights. As a Tech Partner at Keypitt, I develop end-to-end solutions that enhance venue experiences, using tools like Next.js, Typescript, and modern DevOps practices. I’m passionate about entrepreneurship, solving real-world problems with technology, and exploring the latest innovations in software development.
 
 ---
 
