@@ -7,8 +7,7 @@
                                                                                                                      
   ### About Me                                                                                                       
                                                                                                                      
-  I build products and write code. At **Keypitt**, I architect and ship the full platform — from frontend to         
-  infrastructure. On the side, I'm building **Kestrel**, an open-source LLM routing proxy that cuts API costs by up  
+  I build products and write code. At **Keypitt**, I architect and ship the full platform — from frontend to infrastructure. On the side, I'm building **Kestrel**, an open-source LLM routing proxy that cuts API costs by up  
   to 60%.   
                                                                                                                      
   I care about building things that work, shipping fast, and solving real problems with good engineering.
